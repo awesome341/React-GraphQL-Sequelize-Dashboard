@@ -7,7 +7,7 @@
     "country-telephone-data": "~0.6.0",
     "immutable": "^4.0.0-rc.12",
     "json-immutable": "~0.4.0",
-    "moment": "~2.24.0",
+    "moment": "~2.29.4",
     "moment-timezone": "~0.5.26",
     "pako": "~1.0.10",
     "react-intl": "~2.9.0",
